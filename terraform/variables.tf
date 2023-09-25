@@ -1,11 +1,12 @@
 variable "resource_group" {
   description = "The resource group"
-  default = "CHANGE_ME_RESOURCE_GROUP"
+  default = "azjavaghaction10294-rg
+"
 }
 
 variable "application_name" {
   description = "The Spring Boot application name"
-  default     = "CHANGE_ME_APP_NAME"
+  default     = "BookFlight31566"
 }
 
 variable "location" {
