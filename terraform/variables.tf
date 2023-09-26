@@ -1,7 +1,6 @@
 variable "resource_group" {
   description = "The resource group"
-  default = "azjavaghaction10294-rg
-"
+  default = "azjavaghaction10294-rg"
 }
 
 variable "application_name" {
